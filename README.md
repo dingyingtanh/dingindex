@@ -1,7 +1,19 @@
 
 # dingindex - 极客范儿的浏览器主页
+<<<<<<< HEAD
 
 
+=======
+<<<<<<< HEAD
+=======
+> Coolest browser index for geeks! 
+> 
+> 前后端全栈项目 By [程序员鱼皮](https://docs.qq.com/doc/DUFFRVWladXVjeUxW)
+
+
+>>>>>>> 5459a6a72a6cdbbcb2e706bf81acdd961094a1c1
+
+>>>>>>> 2553ac7932a73b09592579099442864722e01292
 在线体验：[http://yuindex.yupi.icu](http://yuindex.yupi.icu)
 
 视频演示：[https://www.bilibili.com/video/BV19B4y1Y7m8/](https://www.bilibili.com/video/BV19B4y1Y7m8/)
