@@ -1,7 +1,6 @@
 
 # dingindex - 极客范儿的浏览器主页
 
-
 在线体验：[http://yuindex.yupi.icu](http://yuindex.yupi.icu)
 
 视频演示：[https://www.bilibili.com/video/BV19B4y1Y7m8/](https://www.bilibili.com/video/BV19B4y1Y7m8/)
